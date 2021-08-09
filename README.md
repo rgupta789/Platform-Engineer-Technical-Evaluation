@@ -15,6 +15,6 @@ There are a couple of assumptions I have made when designing this solution:
 2. In regards to Assumption #2 (above), I would have liked to handle the situation where a customer can have multiple tickets since realistically this is a very likely scenario
 
 ## AWS Account Access
-1. Logon to the console as an IAM user. The account number is '757293290839' and the username is 'Evaluator'
+1. Logon to the console as an IAM user. The account number is '757293290839' and the username is 'Evaluator'. The password has been sent to the hiring manager for this role
 2. Navigate to the Lambda service
 3. Test the function to run it. The logs will print the payload for each closed ticket
